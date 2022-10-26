@@ -3,4 +3,4 @@
 
 - 🎓an educated media designer 
 - 📚currently learning and discovering svelte & sveltekit
-- 📱developing an app that manages living together in the same household
+- 📱developing a pwa that manages living together in the same household
